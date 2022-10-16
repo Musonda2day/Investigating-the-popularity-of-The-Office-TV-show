@@ -5,6 +5,6 @@ In this analysis, we construct a scatterplot that shows the viewership in millio
 
 The markers are calor coded to represent the rating of the episode:
 
-**Rating below 0.25 - red
+*Rating below 0.25 - red*
 
-*Rating between 0.25 and 0.5 - orange
+*Rating between 0.25 and 0.5 - orange*
